@@ -1,0 +1,29 @@
+/* Global styles */
+
+/* Set background color */
+body {
+    background-color: #CADCFC;
+    font-family: "Libre Baskerville", serif;;
+}
+
+/* Set text color */
+body, h1, h2, h3, h4, h5, h6,  a {
+    color: #00246B;
+}
+
+/* Navigation bar styles */
+.navbar-custom {
+    background-color: #00246B;
+    color: #CADCFC; /* Text color */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #CADCFC; /* Text color */
+}
+
+.navbar-custom .nav-link:hover {
+    color: #00246B; /* Text color on hover */
+}
+
+/* Add more global styles as needed */
